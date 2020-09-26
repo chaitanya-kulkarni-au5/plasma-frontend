@@ -152,7 +152,7 @@ class App extends Component {
       <div className="container">
         <div className="row justify-content-center m-4">
           <div className="col-xs-12 mx-auto">
-            <h1 className="text-center m-2">SATARA DIVISIONAL COMMISSIONER OFFICE</h1>
+            <h1 className="text-center m-2">जिल्हा आधिकारी कार्यालय, सातारा</h1>
             <h3 className="text-center m-4">प्लाज्मा दान करें - जान बचाएं</h3>
           </div>
         </div>
